@@ -123,3 +123,16 @@ img {
     font-weight: bolder;
     font-size: 18px;
 }
+
+.projects {
+    background-color: #e5e7eb;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: monospace;
+    padding:30px 220px;
+}
+
+.container {
+    background-color:#1F2937 ;
+}
