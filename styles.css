@@ -126,8 +126,6 @@ img {
     color:hsl(220, 13%, 40%);
 }
 
-
-
 .projects {
     background-color: #e5e7eb;
     display:flex;
@@ -166,10 +164,13 @@ img {
 }
 
 .container a {
-    color: #F9FAF8;  
-    padding-top: 10px;
+    color: hsl(220, 13%, 40%);  
     font-weight: bolder;
     font-size: 18px;
+}
+
+.projects a {
+    color: #F9FAF8;
 }
 
 .title2.title3 {
