@@ -112,6 +112,7 @@ img {
 .column img {
     width:200px;
     height: auto;  
+    flex:auto;
 }
 
 .column p {
@@ -135,4 +136,30 @@ img {
 
 .container {
     background-color:#1F2937 ;
+    padding:20px;
+    flex:1;
+    border-radius: 10px;
+    display:flex;
+    align-items:flex-end
 }
+
+.three-projects {
+    display:flex;
+    gap:30px;
+}
+
+.container div {
+    color: #F9FAF8;
+}
+
+.container ul {
+    color: #e5e7eb;
+}
+
+#calc {
+    width:300px;
+    height:auto;
+    flex: 0.5 1 auto;
+}
+
+#
