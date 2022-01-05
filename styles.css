@@ -119,11 +119,14 @@ img {
     text-align: center;
 }
 
-.column div {
+.column a {
     padding-top: 10px;
     font-weight: bolder;
     font-size: 18px;
+    color:hsl(220, 13%, 40%);
 }
+
+
 
 .projects {
     background-color: #e5e7eb;
