@@ -162,4 +162,9 @@ img {
     flex: 0.5 1 auto;
 }
 
-#
+.container a {
+    color: #F9FAF8;  
+    padding-top: 10px;
+    font-weight: bolder;
+    font-size: 18px;
+}
